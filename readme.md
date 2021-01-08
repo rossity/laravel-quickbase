@@ -11,7 +11,7 @@ Intended for use with Laravel 8+
 Via Composer
 
 ``` bash
-$ composer require rossity/laravelquickbase
+$ composer require rossity/laravel-quickbase
 ```
 
 The Service Provider and Facade will automatically be registered.
